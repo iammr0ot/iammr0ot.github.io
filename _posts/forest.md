@@ -176,7 +176,11 @@ This creates a JSON file. Let's upload it to BloodHound to visualize the data. F
 ![alt text](<Pasted image 20240104000743.png>)
 ![alt text](<Pasted image 20240104000824.png>)
 
-To run Bloodhound we first need to start **neo4j** a graph database system. 
+To run Bloodhound we first need to start **neo4j** a graph database system.
+
+```bash
+sudo neo4j console
+```
 
 ![alt text](<Pasted image 20240109135359.png>)
 
