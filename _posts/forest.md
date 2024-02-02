@@ -1,3 +1,11 @@
+---
+title: Forest
+Date: 2024-02-02 07:52:00 -500
+categories: [htb,easy,ad]
+tage: [htb,easy,ad,ctf]
+---
+
+
 # User 
 ## Enumeration through Nmap
 First of all we will go with nmap to scan the whole network and check for services running on the network. To scan the whole network and find all the open ports i use **-p-** with **--min-rate 10000** to scan network faster from **nmap** and i found a list of open ports on the network
