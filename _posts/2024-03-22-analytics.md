@@ -75,7 +75,7 @@ $ cat /etc/hosts | grep analytical
 #### Initial Access
 
 On `data.analytical.htb`, Metabase is running.
-Metabase is **an open source business intelligence tool that lets you create charts and dashboards using data from a variety of databases and data sources**. You don't need to know SQL to create visualizations, but Metabase supports SQL for advanced customization.
+Metabase is **an open source business intelligence tool that lets you create charts and dashboards using data from a variety of databases and data sources**. You don't need to know SQL to create visualizations, but Metabase supports SQL for advanced customization.
 
 <img  alt="Pasted image 20240321191714" src="https://github.com/iammR0OT/myaseen/assets/74102381/9175639c-936b-43f5-adef-4cf495ac45bf">
 
@@ -83,7 +83,7 @@ With a Quick google Search i was able to find a RCE exploit of metabase [CVE-202
 
 <img  alt="Pasted image 20240321191841" src="https://github.com/iammR0OT/iammR0OT.github.io/assets/74102381/07497b78-0735-4057-b5a6-e922a9c0ca36">
 
-To make this Exploit work, we needs the **target URL**, the **setup token** and a **command** that will be executed. The setup token can be obtained through the `/api/session/properties` endpoint. Copy the value of the `setup-token` key. 
+To make this Exploit work, we needs the **target URL**, the **setup token** and a **command** that will be executed. The setup token can be obtained through the `/api/session/properties` endpoint. Copy the value of the `setup-token` key. 
 
 <img  alt="Pasted image 20240321192204" src="https://github.com/iammR0OT/iammR0OT.github.io/assets/74102381/916047a0-2bd7-49ad-8567-d1572a4a2eac">
 
