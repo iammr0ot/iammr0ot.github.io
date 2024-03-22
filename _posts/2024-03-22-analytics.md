@@ -1,6 +1,6 @@
 ---
 title: Analytics - HTB Writeup
-date: 2024-03-022 10:03
+date: 2024-03-22 10:03
 categories: [ctf, linux, easy]
 tags: [htb, linux, ctf, easy, analytics]    # TAG names should be lowercase
 ---
