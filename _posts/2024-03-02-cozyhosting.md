@@ -2,7 +2,7 @@
 title: Cozyhosting - HTB Writeup
 date: 2024-03-02 10:03
 categories: [ctf, linux, easy]
-tags: [htb, linux, ctf, easy, cozyhosting]    # TAG names should be lowercase
+tags: [htb, linux, ctf, easy]    # TAG names should be lowercase
 ---
 
 
