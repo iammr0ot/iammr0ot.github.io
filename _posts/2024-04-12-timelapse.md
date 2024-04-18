@@ -2,7 +2,7 @@
 title: Timelapse - HTB Writeup
 date: 2024-04-17 10:03
 categories: [ctf, windows, easy, ad]
-tags: [htb, windows, ctf, easy, timelapse, ad]    # TAG names should be lowercase
+tags: [htb, windows, ctf, easy, ad]    # TAG names should be lowercase
 ---
 
 ![Pasted image 20240417193544](https://github.com/iammR0OT/HTB/assets/74102381/d1bb0318-cd34-4421-aef1-b96c3ba964e1)
