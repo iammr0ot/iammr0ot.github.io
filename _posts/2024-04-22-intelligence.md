@@ -739,7 +739,7 @@ svc_int$:aes128-cts-hmac-sha1-96:059ae234e725682d00c3c278b3cff01b
 ### Abusing Delegation rights through Impersonation
 
 I tried to crack this hash but didn't succeed but we can perform **pass-the-hash** attack here to login to the SVC_INT service account. We can also use this Service account hash to create a **forged ticket** to get access to Admin account. You can learn more about it [here](https://www.onsecurity.io/blog/abusing-kerberos-from-linux/#impersonation-tickets)
-Before Creating the ticket make sure that you machine time is **sync** with the time of DC because **kerberose** authentication use time stamps as a part of protcol. You can learn more about it [here](http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3908114)
+Before Creating the ticket make sure that you machine time is **sync** with the time of DC because **kerberose** authentication use time stamps as a part of protcol. You can learn more about it [here](https://kb.mit.edu/confluence/pages/viewpage.action?pageId=3908114)
 
 ```shell
 $ sudo ntpdate 10.10.10.248
