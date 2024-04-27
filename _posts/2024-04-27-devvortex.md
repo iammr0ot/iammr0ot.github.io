@@ -131,7 +131,6 @@ Administrator path looks interesting there. After checking the administrator pat
 
 ![Pasted image 20240427192750](https://github.com/iammR0OT/HTB/assets/74102381/7d963be7-1e38-405f-bbde-d76fce072c74)
 
-> [!NOTE] Joomla
 > Joomla is an open source Content Management System (CMS), which is used to build websites and online applications. It is free and extendable which is separated into front-end and back-end templates (administrator)
 
 
