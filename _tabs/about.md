@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-My name is Muhammad Yaseen, and I am a final year student at Lahore Garrison University studying Bs Digital Forensics and Cyber Security. I am a competent, dedicated candidate who aim to get a position in reputed company that helps me to explore myself and realize my potential. Willing to work in a challenging and creative environment where I can learn and grow. Passionate about perception and intelligent system. Cyber security and technology enthusiast , seeking to learn and never backdown an opportunity that will enhance my skills and increase my knowledge related to cybersecurity and IT.
+Muhammad Yaseen, Experienced Cyber Security Professional specializing in Penetration Testing with a proven track record in safeguarding organizational assets through rigorous security assessments. Proficient in conducting Active Directory and Web Application testing to identify vulnerabilities and mitigate risks effectively. Skilled in leveraging cutting-edge tools and methodologies to deliver comprehensive security solutions that align with industry best practices.
 
