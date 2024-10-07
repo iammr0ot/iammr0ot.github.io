@@ -1,5 +1,5 @@
 ---
-title: vulnnet-Active - THM Writeup
+title: Vulnnet-Active - THM Writeup
 date: 2024-10-07 10:03
 categories: [ctf, windows, medium, ad]
 tags: [thm, windows, ctf, medium, ad]    # TAG names should be lowercase
