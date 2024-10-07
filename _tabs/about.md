@@ -6,11 +6,14 @@ order: 4
 
 Muhammad Yaseen, Experienced Information Security Consultant specializing in Penetration Testing with a proven track record in safeguarding organizational assets through rigorous security assessments. Proficient in conducting Active Directory, Web Application, Source Code Review, and Mobile Application testing to identify vulnerabilities and mitigate risks effectively. Skilled in leveraging cutting-edge tools and methodologies to deliver comprehensive security solutions that align with industry best practices.
 
+<!-- Ensure Bootstrap is loaded -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
 <style>
 /* Set initial width of progress bar to 0% */
 .progress-bar {
   width: 0;
-  transition: width 2s ease; /* 2-second animation */
+  transition: width 2s ease;
 }
 </style>
 
@@ -173,4 +176,4 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Leadership:</strong>
         <div class="progress">
-          <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 
+          <div class="progress-bar bg-primary" role="progressbar" aria-valu
