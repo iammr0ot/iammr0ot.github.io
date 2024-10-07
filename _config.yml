@@ -15,16 +15,16 @@ timezone: Asia/Karachi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: iammR0OT # the main title
+title: iamroot101 # the main title
 
-tagline: Penetration Tester | CTF Player # it will display as the sub-title
+tagline: Information Security Consultant | Penetration Tester | CTF Player # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Penetration Tester | CTF Player
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://iammR0OT.github.io"
+url: "https://iamroot101.github.io"
 
 github:
   username: iammR0OT # change to your github username
@@ -32,16 +32,16 @@ github:
 twitter:
   username: iamR0OT # change to your twitter username
 linkedin: 
-  username: mian-m-yaseen-525067211
+  username: m-yaseen-525067211
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: iamR0OT
+  name: iamroot101
   # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/MianMYaseen2 # change to your twitter homepage
-    - https://github.com/iammR0OT # change to your github homepage
+    - https://github.com/iamroot101 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/username
