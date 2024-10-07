@@ -76,7 +76,7 @@ $ INFO
 ```
 <img src="https://i.imgur.com/gV8yaIu.png">
 
-Quick Google Search reveals that this version is vulnerable to command injection. You can learn more about it [here]([https://revshells.com](https://michalszalkowski.com/security/pentesting-ports/6379-redis))  (R2)
+Quick Google Search reveals that this version is vulnerable to command injection. You can learn more about it [here](https://michalszalkowski.com/security/pentesting-ports/6379-redis)  (R2)
 
 <img src="https://i.imgur.com/blJKAx8.png">
 
