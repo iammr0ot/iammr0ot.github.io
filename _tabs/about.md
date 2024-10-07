@@ -6,6 +6,14 @@ order: 4
 
 Muhammad Yaseen, Experienced Information Security Consultant specializing in Penetration Testing with a proven track record in safeguarding organizational assets through rigorous security assessments. Proficient in conducting Active Directory, Web Application, Source Code Review, and Mobile Application testing to identify vulnerabilities and mitigate risks effectively. Skilled in leveraging cutting-edge tools and methodologies to deliver comprehensive security solutions that align with industry best practices.
 
+<style>
+/* Set initial width of progress bar to 0% */
+.progress-bar {
+  width: 0;
+  transition: width 2s ease; /* 2-second animation */
+}
+</style>
+
 <div class="row">
   <!-- Penetration Testing Skills Section -->
   <div class="col-md-6">
@@ -14,7 +22,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Web Application Pentest:</strong>
         <div class="progress">
-          <div class="progress-bar bg-danger" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             95%
           </div>
         </div>
@@ -22,7 +30,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Mobile Application Pentest:</strong>
         <div class="progress">
-          <div class="progress-bar bg-primary" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             60%
           </div>
         </div>
@@ -30,7 +38,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>API Security Assessment:</strong>
         <div class="progress">
-          <div class="progress-bar bg-secondary" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-secondary" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             70%
           </div>
         </div>
@@ -38,7 +46,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Network Infrastructure Pentest:</strong>
         <div class="progress">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             80%
           </div>
         </div>
@@ -46,7 +54,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Cloud Security Assessment:</strong>
         <div class="progress">
-          <div class="progress-bar bg-warning" role="progressbar" style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             10%
           </div>
         </div>
@@ -61,7 +69,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Python:</strong>
         <div class="progress">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             90%
           </div>
         </div>
@@ -69,7 +77,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>PHP:</strong>
         <div class="progress">
-          <div class="progress-bar bg-warning" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             65%
           </div>
         </div>
@@ -77,7 +85,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>C#:</strong>
         <div class="progress">
-          <div class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             50%
           </div>
         </div>
@@ -85,7 +93,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>C++:</strong>
         <div class="progress">
-          <div class="progress-bar bg-secondary" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-secondary" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             50%
           </div>
         </div>
@@ -102,7 +110,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Threat Modeling:</strong>
         <div class="progress">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             50%
           </div>
         </div>
@@ -110,7 +118,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Adversary Simulation:</strong>
         <div class="progress">
-          <div class="progress-bar bg-info" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-info" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             80%
           </div>
         </div>
@@ -118,7 +126,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Social Engineering:</strong>
         <div class="progress">
-          <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             90%
           </div>
         </div>
@@ -126,7 +134,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Exploit Development:</strong>
         <div class="progress">
-          <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             70%
           </div>
         </div>
@@ -134,7 +142,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Post-Exploitation:</strong>
         <div class="progress">
-          <div class="progress-bar bg-secondary" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-secondary" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             85%
           </div>
         </div>
@@ -149,7 +157,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Communication Skills:</strong>
         <div class="progress">
-          <div class="progress-bar bg-info" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-info" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             95%
           </div>
         </div>
@@ -157,7 +165,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Teamwork:</strong>
         <div class="progress">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             90%
           </div>
         </div>
@@ -165,7 +173,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Leadership:</strong>
         <div class="progress">
-          <div class="progress-bar bg-primary" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             90%
           </div>
         </div>
@@ -173,7 +181,7 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Problem Solving:</strong>
         <div class="progress">
-          <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
             90%
           </div>
         </div>
@@ -181,3 +189,16 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
     </ul>
   </div>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select all elements with the class 'progress-bar'
+    var progressBars = document.querySelectorAll('.progress-bar');
+
+    // Loop through each progress bar and set its width based on the 'aria-valuenow' attribute
+    progressBars.forEach(function(bar) {
+      var percentage = bar.getAttribute('aria-valuenow');
+      bar.style.width = percentage + '%';
+    });
+  });
+</script>
