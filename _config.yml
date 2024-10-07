@@ -198,3 +198,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+htmlproofer:
+  url_ignore:
+    - "http://michalszalkowski.com/security/pentesting-ports/6379-redis"
+    - "http://michalszalkowski.com/security/pentesting-ports/6379-redis/"
