@@ -173,33 +173,4 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Leadership:</strong>
         <div class="progress">
-          <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
-            90%
-          </div>
-        </div>
-      </li>
-      <li class="mb-2">
-        <strong>Problem Solving:</strong>
-        <div class="progress">
-          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
-            90%
-          </div>
-        </div>
-      </li>
-    </ul>
-  </div>
-</div>
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // Select all elements with the class 'progress-bar'
-    var progressBars = document.querySelectorAll('.progress-bar');
-
-    // Loop through each progress bar and set its width based on the 'aria-valuenow' attribute
-    progressBars.forEach(function(bar) {
-      var percentage = bar.getAttribute('aria-valuenow');
-      bar.style.width = percentage + '%';
-    });
-  });
-</script>
+          <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 
