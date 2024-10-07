@@ -204,7 +204,7 @@ You can read you root flag from `C:\Users\Administrator\Desktop`
 
 # References
 
-1. [6379 - Pentesting Redis | HackTricks](https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis)
+1. [6379 - Pentesting Redis HackTricks](https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis)
 2. [6379 - Pentesting redis - MichalSzalkowski.com/security](http://michalszalkowski.com/security/pentesting-ports/6379-redis/)
 3. [Reverse Shell Generator](https://www.revshells.com)
 4. [SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse)
