@@ -6,11 +6,8 @@ order: 4
 
 Muhammad Yaseen, Experienced Information Security Consultant specializing in Penetration Testing with a proven track record in safeguarding organizational assets through rigorous security assessments. Proficient in conducting Active Directory, Web Application, Source Code Review, and Mobile Application testing to identify vulnerabilities and mitigate risks effectively. Skilled in leveraging cutting-edge tools and methodologies to deliver comprehensive security solutions that align with industry best practices.
 
-<!-- Ensure Bootstrap is loaded -->
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-
 <style>
-/* Set initial width of progress bar to 0% */
+/* Initialize progress bar width to 0% */
 .progress-bar {
   width: 0;
   transition: width 2s ease;
@@ -176,4 +173,32 @@ Muhammad Yaseen, Experienced Information Security Consultant specializing in Pen
       <li class="mb-2">
         <strong>Leadership:</strong>
         <div class="progress">
-          <div class="progress-bar bg-primary" role="progressbar" aria-valu
+          <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+            90%
+          </div>
+        </div>
+      </li>
+      <li class="mb-2">
+        <strong>Problem Solving:</strong>
+        <div class="progress">
+          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+            90%
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select all elements with the class 'progress-bar'
+    var progressBars = document.querySelectorAll('.progress-bar');
+
+    // Loop through each progress bar and set its width based on the 'aria-valuenow' attribute
+    progressBars.forEach(function(bar) {
+      var percentage = bar.getAttribute('aria-valuenow');
+      bar.style.width = percentage + '%';
+    });
+  });
+</script>
