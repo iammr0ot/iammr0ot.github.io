@@ -76,7 +76,7 @@ $ INFO
 ```
 <img src="https://i.imgur.com/gV8yaIu.png">
 
-Quick Google Search reveals that this version is vulnerable to command injection. You can learn more about it [here](http://michalszalkowski.com/security/pentesting-ports/6379-redis/)  (R2)
+Quick Google Search reveals that this version is vulnerable to command injection. You can learn more about it http[:]//michalszalkowski.com/security/pentesting-ports/6379-redis/  (R2)
 
 <img src="https://i.imgur.com/blJKAx8.png">
 
@@ -205,6 +205,6 @@ You can read you root flag from `C:\Users\Administrator\Desktop`
 # References
 
 1. [6379 - Pentesting Redis HackTricks](https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis)
-2. [6379 - Pentesting redis - MichalSzalkowski.com/security](http://michalszalkowski.com/security/pentesting-ports/6379-redis/)
+2. http[:]//michalszalkowski.com/security/pentesting-ports/6379-redis/
 3. [Reverse Shell Generator](https://www.revshells.com)
 4. [SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse)
